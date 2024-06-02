@@ -142,6 +142,7 @@ jobs [옵션][작업번호]
 4-1.형식
 ---
 '''github
+
 kill [OPTIONS] [PID]
 '''
 
