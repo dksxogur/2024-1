@@ -158,7 +158,11 @@ kill [OPTIONS] [PID]
 4-3.주요 시그널
 ---
   -'SIGHUP' :	세션 종료 시그널
+  
   -'SIGINT' :	인터럽트 시그널
+  
   -'SIGKILL' :	강제 종료 시그널
+  
   -'SIGTERM' :	정상 종료 요청 시그널
+  
   -'SIGSTOP' :	프로세스 일시 정지 시그널
