@@ -7,7 +7,7 @@
 >top란?
 
 'top' 명령어는 실시간으로 시스템의 프로세스와 리소스 사용 상태를 모니터링하는 도구입니다. 실행하면 주기적으로 화면을 갱신하면서 현재 실행 중인 프로세스, CPU 사용률, 메모리 사용량, 시스템 부하 등을 표시합니다.
-* <https://blog.naver.com/dktmrorl/222416977486>
+* [https://blog.naver.com/dktmrorl/222416977486>](https://terms.naver.com/entry.naver?docId=4125861&cid=59321&categoryId=59321)
   
 1-1.형식
 ---
